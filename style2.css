@@ -1,0 +1,20 @@
+h1{
+   text-align: center;
+}
+
+.block{
+    height: 200px;
+    width: 200px;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}

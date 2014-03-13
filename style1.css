@@ -1,0 +1,16 @@
+h1{
+   text-align: center;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.rightPic{
+    float: right;
+}
+
+.ImageParagraph{
+    text-align: justify;
+}
